@@ -1,1 +1,2 @@
-# pose-estimation
+pip install controlnet_aux
+pip install diffusers transformers accelerate
