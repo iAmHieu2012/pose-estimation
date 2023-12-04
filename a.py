@@ -16,9 +16,9 @@ from tqdm import tqdm
 
 #@markdown ### ▶️ Process Folder
 #@markdown Folder to process
-folder_name = "E:/Code/test/output" #@param {type:"string"}
+folder_name = "./source" #@param {type:"string"}
 
-outputDir = os.path.join(folder_name, 'controlnet')
+outputDir = os.path.join(folder_name, 'output')
 
 
 # import the modules
